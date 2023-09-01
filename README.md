@@ -1,5 +1,9 @@
 # Challenge6
 
+https://github.com/aaronbilbow/Challenge6/blob/main/Starter_Code/starter_code/WeatherPy.ipynb
+https://github.com/aaronbilbow/Challenge6/blob/main/Starter_Code/starter_code/VacationPy.ipynb
+
+
 Had to create 2 python files one for weather and the other for vacation.
 
 Vacation python:
